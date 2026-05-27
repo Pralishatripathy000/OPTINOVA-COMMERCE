@@ -62,40 +62,10 @@ The system combines **machine learning**, **behavioral analytics**, and **real-t
 <br>
 
 ---
+<img width="1905" height="905" alt="p1" src="https://github.com/user-attachments/assets/97ac96e2-7fd5-43f4-bba8-1c4c22cc0366" />
+<img width="1462" height="686" alt="pred1" src="https://github.com/user-attachments/assets/57a4a760-c249-4d11-b4db-10c6b94ca7b8" />
+<img width="1880" height="867" alt="pred2" src="https://github.com/user-attachments/assets/0be204dd-1999-47ea-98d3-1afb75bc067f" />
 
-## 📸 Screenshots
-
-<br>
-
-### Hero Page
-<!-- Replace with your hero / launch page screenshot -->
-![Hero Page](images/hero_page.png)
-
-<br>
-
-### Live Prediction Dashboard
-<!-- Replace with your prediction page screenshot -->
-![Prediction Dashboard](images/prediction_dashboard.png)
-
-<br>
-
-### Model Insights — Feature Importance
-<!-- Replace with your feature importance screenshot -->
-![Feature Importance](images/feature_importance.png)
-
-<br>
-
-### Risk Breakdown
-<!-- Replace with your risk breakdown screenshot -->
-![Risk Breakdown](images/risk_breakdown.png)
-
-<br>
-
-### About Page
-<!-- Replace with your about page screenshot -->
-![About Page](images/about_page.png)
-
-<br>
 
 ---
 
