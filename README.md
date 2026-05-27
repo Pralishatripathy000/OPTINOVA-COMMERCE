@@ -1,7 +1,8 @@
+
 <div align="center">
 
 <!-- Replace with your launch page screenshot -->
-![Optinova Commerce Banner](images/launch_page.png)
+<img width="1906" height="898" alt="launch apge" src="https://github.com/user-attachments/assets/deb20391-9abb-4f03-a817-417138238723" />
 
 <br>
 
