@@ -249,6 +249,7 @@ seaborn
 <img width="1217" height="752" alt="roc" src="https://github.com/user-attachments/assets/b22823ad-cf62-4e6f-9847-f5bbb5d54508" />
 <img width="1063" height="648" alt="cr" src="https://github.com/user-attachments/assets/ce0ac374-40ae-47eb-bd74-500015c1c4ef" />
 <img width="1137" height="628" alt="pppp" src="https://github.com/user-attachments/assets/f9900bec-f9b9-4b93-9f10-20e635c0c6d6" />
+<img width="1180" height="632" alt="crard" src="https://github.com/user-attachments/assets/0b406ab4-c612-4459-a05c-c829ef63bed9" />
 
 
 ---
