@@ -2,12 +2,14 @@
 <div align="center">
 
 <!-- Replace with your launch page screenshot -->
-<img width="1906" height="898" alt="launch apge" src="https://github.com/user-attachments/assets/deb20391-9abb-4f03-a817-417138238723" />
 
 <br>
 
 # Optinova Commerce
 ### AI-Powered Ecommerce Conversion & Cart Abandonment Intelligence
+
+<img width="1906" height="898" alt="launch apge" src="https://github.com/user-attachments/assets/deb20391-9abb-4f03-a817-417138238723" />
+
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://optinova-commerce-kinyycrkxse3hw32xqicmq.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
