@@ -39,14 +39,7 @@ The system combines **machine learning**, **behavioral analytics**, and **real-t
 
 > **Example:** If a visitor explores multiple product pages but shows high bounce and exit behavior, the model detects elevated abandonment risk and surfaces intelligent behavioral insights — in real time.
 
-<br>
 
-<!-- Replace with your dashboard overview screenshot -->
-![Dashboard Overview](images/dashboard_overview.png)
-
-<br>
-
----
 
 ## ✨ Features
 
@@ -73,9 +66,9 @@ The system combines **machine learning**, **behavioral analytics**, and **real-t
 
 <br>
 
-<!-- Replace with your architecture diagram -->
-![Architecture Diagram](images/architecture_diagram.png)
+<img width="1024" height="1536" alt="c0ff61ae-20a4-499c-ad25-b9dbf8f95111" src="https://github.com/user-attachments/assets/308ad9b5-1edc-438a-991f-b645a378579f" />
 
+ 
 <br>
 
 ```
@@ -113,8 +106,9 @@ Deployed on Streamlit Cloud
 
 <br>
 
-<!-- Replace with your ML workflow diagram -->
-![ML Workflow](images/ml_workflow.png)
+<img width="1536" height="1024" alt="5a20d0a5-ac87-4db2-bb6e-5f6e607be8e1" src="https://github.com/user-attachments/assets/d42f6a52-a874-4177-b28b-80de32e5e4fd" />
+
+
 
 <br>
 
@@ -251,6 +245,11 @@ seaborn
 ```
 
 <br>
+
+<img width="1217" height="752" alt="roc" src="https://github.com/user-attachments/assets/b22823ad-cf62-4e6f-9847-f5bbb5d54508" />
+<img width="1063" height="648" alt="cr" src="https://github.com/user-attachments/assets/ce0ac374-40ae-47eb-bd74-500015c1c4ef" />
+<img width="1137" height="628" alt="pppp" src="https://github.com/user-attachments/assets/f9900bec-f9b9-4b93-9f10-20e635c0c6d6" />
+
 
 ---
 
